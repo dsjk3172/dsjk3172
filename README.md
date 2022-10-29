@@ -1,4 +1,4 @@
-### Hi there 👋
+### 신입 개발자 이시현입니다 👋
 
 <!--
 **dsjk3172/dsjk3172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
