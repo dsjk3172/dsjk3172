@@ -2,7 +2,7 @@
 ✔️ &nbsp;세상을 이롭게 만드는 서비스에 관심이 많습니다.   
 ✔️ &nbsp;새로운 기술 스택에 관심이 많고, 배우는 걸 좋아합니다.   
 ✔️ &nbsp;지식을 공유하며 함께 성장하는 삶을 지향합니다   
-✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://skylee22.notion.site/skylee22/85cbcd6d279c4b33be9ca77f47dde3aa">제 포트폴리오</a>를 방문해주세요.   
+✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://www.notion.so/skylee22/ffe7dfeb5a51493bbf88c04e5739b5ef">제 포트폴리오</a>를 방문해주세요.   
 
 <!--
 **dsjk3172/dsjk3172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
