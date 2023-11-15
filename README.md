@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dsjk3172&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/dsjk3172)   
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dsjk3172&show_icons=true)](https://github.com/dsjk3172)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsjk3172&layout=compact&theme=algolia)](https://github.com/dsjk3172)
 
